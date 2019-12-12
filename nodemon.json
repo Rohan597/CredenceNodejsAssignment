@@ -1,0 +1,5 @@
+{
+    "env" : {
+        "MONGO_ATLAS_PW" : "YourMongoDB_Atlas_passwordCome_in_here"
+    }
+}
